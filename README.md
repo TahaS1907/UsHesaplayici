@@ -1,2 +1,2 @@
-# UsHesaplayici
+# ExpCalculator
 [Patika](www.patika.dev)
